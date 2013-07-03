@@ -1,6 +1,12 @@
 [
     {
       "repository": "MoKee/android_kernel_asus_grouper",
-      "target_path": "kernel/asus/grouper"
+      "target_path": "kernel/asus/grouper",
+      "branch": "jb-mr1_mkt"
+    },
+    {
+      "repository": "MoKee/android_vendor_asus_grouper",
+      "target_path": "vendor/asus/grouper",
+      "branch": "jb-mr1_mkt"
     }
 ]
